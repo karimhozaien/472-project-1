@@ -1,6 +1,6 @@
 # COMP 472 Project 1: Handwritten Digit Classifier 
 
-##Authors 
+#Authors 
 Alessandro Condina  
 ID: 40158684
 
