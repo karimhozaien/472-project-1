@@ -1,4 +1,4 @@
-# Alessandro Condina ID:40158684
+# Alessandro Condina ID:40158684, Karim Hozaien (ID: 40349984)
 
 from sklearn.datasets import load_digits
 from sklearn.linear_model import LogisticRegression

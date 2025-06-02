@@ -1,8 +1,8 @@
 # COMP 472 Project 1: Handwritten Digit Classifier 
 
 ## Authors 
-Alessandro Condina  
-ID: 40158684
+Alessandro Condina ID: 40158684, 
+ Karim Hozaien ID: 40349984
 
 ## Description
 This project implements a machine learning model to classify handwritten digits using logistic regression. The dataset used is `load_digits` from `sklearn.datasets`, which contains 8x8 grayscale images of digits (0–9).

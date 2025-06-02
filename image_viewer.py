@@ -1,3 +1,4 @@
+# Alessandro Condina ID:40158684, Karim Hozaien (ID: 40349984)
 # This lets you choose an image out of 1796 images to view using matplotlib
 # The user is prompted to enter an index number, and an image at that index will appear
 
